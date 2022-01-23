@@ -22,5 +22,10 @@ namespace GitWebApp
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+        private void TestMethod1()
+        {
+
+        }
     }
 }
